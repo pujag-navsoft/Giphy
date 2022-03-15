@@ -1,6 +1,0 @@
-
-target "Giphy" do 
-
-pod 'Giphy' 
-
-end
